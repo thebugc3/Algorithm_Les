@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "algorithm_c.exe"
+			"path" : "selectSort.exe"
 		},
 		{
-			"path" : "algorithm_c.pdb"
+			"path" : "selectSort.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "algorithm_c::@6890427a1f51a3e7e1df",
+	"id" : "selectSort::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "algorithm_c",
-	"nameOnDisk" : "algorithm_c.exe",
+	"name" : "selectSort",
+	"nameOnDisk" : "selectSort.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.c",
+			"path" : "class01/selectSort.c",
 			"sourceGroupIndex" : 0
 		}
 	],

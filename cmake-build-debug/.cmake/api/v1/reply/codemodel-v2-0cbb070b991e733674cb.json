@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "algorithm_c::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-algorithm_c-Debug-af0332597e476d4dfe11.json",
-					"name" : "algorithm_c",
+					"id" : "selectSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selectSort-Debug-086ecac94af069aabbe5.json",
+					"name" : "selectSort",
 					"projectIndex" : 0
 				}
 			]

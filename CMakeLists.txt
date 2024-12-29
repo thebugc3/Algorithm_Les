@@ -3,5 +3,6 @@ project(algorithm_c C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(algorithm_c main.c
-        class01/selectSort.c)
+add_executable(selectSort
+       class01/selectSort.c
+)
